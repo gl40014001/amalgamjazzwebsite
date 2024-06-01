@@ -380,12 +380,12 @@
      id="layer1"
      transform="translate(0.0019328)"
      style="display:inline;fill:#000000"><rect
-       style="opacity:1;fill:#1a1a1a;stroke-width:0.230475"
+       style="opacity:1;fill:#1a1a1a;stroke-width:0.205884"
        id="rect1"
-       width="377.79367"
+       width="301.47626"
        height="141.51747"
-       x="111.77415"
-       y="0.087283641" /></g><g
+       x="151.71779"
+       y="-0.7039547" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
@@ -395,7 +395,7 @@
        x="1530.8691"
        y="105.34313"
        id="text323"
-       transform="matrix(0.63167975,0,0,0.66057547,-667.72861,22.296584)"><tspan
+       transform="matrix(0.38417191,0,0,0.38904157,-286.8219,45.275977)"><tspan
          id="tspan321"
          x="1530.8691"
          y="105.34313"
@@ -418,7 +418,7 @@
        x="1530.8691"
        y="105.34313"
        id="text323-0"
-       transform="matrix(0.12268159,0,0,0.11184337,110.17492,92.185801)"><tspan
+       transform="matrix(0.07461189,0,0,0.06586942,186.27967,86.436771)"><tspan
          id="tspan321-9"
          x="1545.2391"
          y="105.34313"
