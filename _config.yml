@@ -157,7 +157,7 @@ header_pages:
   - video.html
   - audio.html
   - gallery.md
-  - about.html
+  - contact.html
 
 # Page default value
 # defaults:
@@ -249,5 +249,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-email-protect
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 theme: jekyll-theme-yat
