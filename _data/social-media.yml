@@ -1,0 +1,23 @@
+facebook:
+  id: 'amalgamjazzuk'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+instagram:
+  id: 'amalgamjazzuk'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
+spotify:
+  id: 'Amalgam'
+  href: 'https://open.spotify.com/album/5awPwBFAgeL84b2bWdfCVD?si=IAk53sAzSdC4cZz_Z122DA'
+  title: 'Spotify'
+  fa-icon: 'fa-spotify'
+
+bandcamp:
+  id: ''
+  href: 'https://amalgambanduk.bandcamp.com/'
+  title: 'Bandcamp'
+  fa-icon: 'fa-bandcamp'
