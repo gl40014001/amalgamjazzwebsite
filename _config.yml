@@ -154,6 +154,7 @@ night_mode: "on"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.md
+  - live_dates.md
   - video.html
   - audio.html
   - gallery.md
@@ -252,3 +253,5 @@ plugins:
   - jekyll-email-protect
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 theme: jekyll-theme-yat
+
+southendjazzfest_date: "2024-10-05"
