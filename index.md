@@ -8,7 +8,7 @@ title: HOME
 
 <h2>HOME</h2>
 
-Amalgam are playing at the [Patch](https://www.patchcolchester.co.uk/events) in Colchester on Friday 21st March 2025.
+Amalgam are playing at [Patch](https://www.patchcolchester.co.uk/events) in Colchester on Friday 21st March 2025.
 
 [Patch](https://www.patchcolchester.co.uk/events) 24 Trinity Street, Colchester, CO1 1JN
 
