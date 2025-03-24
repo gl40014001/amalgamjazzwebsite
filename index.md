@@ -10,8 +10,7 @@ title: HOME
 
 Amalgam are playing at:
 
-
-[Patch](https://www.patchcolchester.co.uk/events) in Colchester on Friday 21st March 2025. Tickets available [here](https://good-show.co.uk/events/1995). 24 Trinity Street, Colchester, CO1 1JN
+[The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 17th April. Free entry. 8.30pm start. 44 High Street, Billericay, United Kingdom, CM12 9BQ.
 
 
 ![albumcover](assets/images/banners/amalgam_front.png){:class="img-responsive"}
