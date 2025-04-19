@@ -8,8 +8,7 @@ title: HOME
 
 <h2>HOME</h2>
 
-Amalgam are playing at:
-
+Our next live date is at
 [The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 19th June 2025 - featuring the amazing Zak Barrett on saxaphone. Free entry. 8.30pm start. 44 High Street, Billericay, United Kingdom, CM12 9BQ.
 
 See [Live dates page]({% link live_dates.md %}) for more upcoming gigs.

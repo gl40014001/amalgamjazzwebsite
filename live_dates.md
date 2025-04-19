@@ -12,6 +12,7 @@ title: LIVE DATES
 
 [Essex County Craft Show](https://county-events.co.uk/essex-county-craft-show/) at Ingatestone Hall on Sunday 29th June 2025. We'll be playing sets throughout the day 11.00am-5.00pm. Buy tickets [here](https://county-events.ticketsrv.co.uk/tickets/Sunday29th).  Ingatestone Hall, Hall Lane, Ingatestone, Essex CM4 9NR.
 
+[Jazz 825](https://jazz825.co.uk/) at the Park Inn in Southend on Wednesday July 16th 2025 - once again featuring fabulous local sax player Zak Barrett! Free entry. 8.30pm start.  Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A.
 
 <h3>Past events</h3>
 
