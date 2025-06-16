@@ -8,7 +8,7 @@ title: LIVE DATES
 
 <h2>LIVE DATES</h2>
 
-[The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 19th June 2025 - featuring the amazing Zak Barrett on saxophone. Free entry. 8.30pm start. 44 High Street, Billericay, United Kingdom, CM12 9BQ.
+[The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 19th June 2025 - featuring the amazing Zak Barrett on saxophone. Free entry. UPDATED START TIME: 8.00pm start. 44 High Street, Billericay, United Kingdom, CM12 9BQ.
 
 [Essex County Craft Show](https://county-events.co.uk/essex-county-craft-show/) at Ingatestone Hall on Sunday 29th June 2025. We'll be playing sets throughout the day 11.00am-5.00pm. Buy tickets [here](https://county-events.ticketsrv.co.uk/tickets/Sunday29th).  Ingatestone Hall, Hall Lane, Ingatestone, Essex CM4 9NR.
 
