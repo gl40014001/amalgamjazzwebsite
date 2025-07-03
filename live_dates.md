@@ -8,7 +8,7 @@ title: LIVE DATES
 
 <h2>LIVE DATES</h2>
 
-[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - once again featuring fabulous local sax player Zak Barrett! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
+[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - featuring awesome local sax player Martin Hathaway! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
 
 [Patch](https://www.patchcolchester.co.uk/events) in Colchester on **Friday November 21st March 2025**. *24 Trinity Street, Colchester, CO1 1JN.* This is a ticketed event. We'll post a link to the ticket website closer to this date.
 

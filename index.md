@@ -10,7 +10,7 @@ title: HOME
 
 Our next live date is..
 
-[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - once again featuring fabulous local sax player Zak Barrett! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
+[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - featuring awesome local sax player Martin Hathaway! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
 
 See [Live dates page]({% link live_dates.md %}) for more upcoming gigs.
 
