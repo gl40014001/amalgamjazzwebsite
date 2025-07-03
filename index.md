@@ -8,12 +8,9 @@ title: HOME
 
 <h2>HOME</h2>
 
-Our next live dates are..
+Our next live date is..
 
-[The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 19th June 2025 - featuring the amazing Zak Barrett on saxophone. Free entry. UPDATED START TIME: 8.00pm. 44 High Street, Billericay, United Kingdom, CM12 9BQ.
-
-[Essex County Craft Show](https://county-events.co.uk/essex-county-craft-show/) at Ingatestone Hall on Sunday 29th June 2025. We'll be playing sets throughout the day 11.00am-5.00pm. Buy tickets [here](https://county-events.ticketsrv.co.uk/tickets/Sunday29th).  Ingatestone Hall, Hall Lane, Ingatestone, Essex CM4 9NR.
-
+[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - featuring awesome local sax player Martin Hathaway! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
 
 See [Live dates page]({% link live_dates.md %}) for more upcoming gigs.
 
