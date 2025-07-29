@@ -10,7 +10,7 @@ title: HOME
 
 Our next live date is..
 
-[Jazz 825](https://jazz825.co.uk/) at the **Park Inn in Southend on Wednesday July 16th 2025** - featuring awesome local sax player Martin Hathaway! **Free entry. 8.30pm start**.  *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
+At [The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 21st August 2025. Free entry. 8.00pm start. *44 High Street, Billericay, United Kingdom, CM12 9BQ.*
 
 See [Live dates page]({% link live_dates.md %}) for more upcoming gigs.
 
