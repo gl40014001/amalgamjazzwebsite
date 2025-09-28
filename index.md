@@ -8,9 +8,11 @@ title: HOME
 
 <h2>HOME</h2>
 
-Our next live date is..
+Our next live dates are..
 
-At [The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 21st August 2025. Free entry. 8.00pm start. *44 High Street, Billericay, United Kingdom, CM12 9BQ.*
+[The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on **Thursday 16th October 2025 8pm start.** Free entry.  *44 High Street, Billericay, United Kingdom, CM12 9BQ.*
+
+[Patch](https://www.patchcolchester.co.uk/events) in Colchester on **Friday November 21st 2025. Doors open 7pm.** Tickets £9. Click [here](https://good-show.co.uk/events/2813) to buy. *24 Trinity Street, Colchester, CO1 1JN.*
 
 See [Live dates page]({% link live_dates.md %}) for more upcoming gigs.
 
