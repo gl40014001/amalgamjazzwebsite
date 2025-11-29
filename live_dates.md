@@ -18,7 +18,6 @@ title: LIVE DATES
 
 [The Ironworks](https://www.facebook.com/theIronWorksSouthend/?locale=en_GB) in Leigh-On-Sea, Essex on **Thursday 6th November 2025. Doors Open 7pm**. Free entry, donations welcome ("the hat" will be passed around during the event!) *Leigh Community Centre. 71-73 Elm Rd, Southend-on-Sea, Leigh-on-Sea SS9 1SP.*
 
-
 [The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on **Thursday 16th October 2025 8pm start.** Free entry.  *44 High Street, Billericay, United Kingdom, CM12 9BQ.*
 
 [The Chequers](https://www.facebook.com/thechequersbillericay) in Billericay on Thursday 21st August 2025. Free entry. 8.00pm start. *44 High Street, Billericay, United Kingdom, CM12 9BQ.*
