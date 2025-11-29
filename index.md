@@ -9,9 +9,11 @@ title: HOME
 <h2>HOME</h2>
 
 
-Our next live date is...
-[Patch](https://www.patchcolchester.co.uk/events) in Colchester, Essex on **Friday November 21st 2025. Doors open 7pm.** Tickets £9. Click [here](https://good-show.co.uk/events/2813) to buy. *24 Trinity Street, Colchester, CO1 1JN.*
+Our next live dates are...
 
+[Hot Box Live](https://www.hotboxlive.co.uk/) in Chelmsford, Essex on **Saturday February 7th 2026. Doors open 2pm.** Tickets £11. Click [here](https://dice.fm/event/xe7v3e-amalgam-7th-feb-hot-box-chelmsford-tickets?pid=5d5a7e86&utm_medium=partners_api) to buy. *28-29 Viaduct Road, Chelmsford, Essex, CM1 1TS.*
+
+[Patch](https://www.patchcolchester.co.uk/events) in Colchester, Essex on **Friday March 27th 2026. Doors open 7pm.** Tickets £10. Click [here](https://good-show.co.uk/events/3039) to buy. *24 Trinity Street, Colchester, CO1 1JN.*
 
 ![albumcover](assets/images/banners/amalgam_front.png){:class="img-responsive"}
 
