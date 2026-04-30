@@ -11,9 +11,9 @@ title: HOME
 
 Our next live dates are...
 
-[Hot Box Live](https://www.hotboxlive.co.uk/) in Chelmsford, Essex on **Saturday February 7th 2026. Doors open 2pm.** Tickets £11. Click [here](https://dice.fm/event/xe7v3e-amalgam-7th-feb-hot-box-chelmsford-tickets?pid=5d5a7e86&utm_medium=partners_api) to buy. *28-29 Viaduct Road, Chelmsford, Essex, CM1 1TS.*
+[Priory Park](https://www.visitsouthend.co.uk/event/music-in-the-park-2026/) in Southend, Essex on **Sunday May 10th 2026, 3.00pm to 4.30pm**. Free entry. *Victoria Avenue, Southend-on-Sea, Essex, SS2 6NB*
 
-[Patch](https://www.patchcolchester.co.uk/events) in Colchester, Essex on **Friday March 27th 2026. Doors open 7pm.** Tickets £10. Click [here](https://good-show.co.uk/events/3039) to buy. *24 Trinity Street, Colchester, CO1 1JN.*
+[Jazz 825](https://jazz825.co.uk/) at the **Park Inn** in Southend, Essex on **Wednesday June 24th 2026, 8.30pm start**. Free entry (donations welcome). *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
 
 ![albumcover](assets/images/banners/amalgam_front.png){:class="img-responsive"}
 
