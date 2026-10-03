@@ -7,12 +7,15 @@ title: LIVE DATES
 ---
 
 <h2>LIVE DATES</h2>
+**[Patch](https://good-show.co.uk/events/4407)** in Colchester, Essex on **Friday 6th November 2026.** Doors open 7pm. **Tickets £10** - available **[here](https://good-show.co.uk/events/4407)**.  
+*24 Trinity Street, Colchester, CO1 1JN.*   
 
-[Priory Park](https://www.visitsouthend.co.uk/event/music-in-the-park-2026/) in Southend, Essex on **Sunday May 10th 2026, 3.00pm to 4.30pm**. Free entry. *Victoria Avenue, Southend-on-Sea, Essex, SS2 6NB*
+![patchnov2026](assets/images/banners/amalgam-patch-nov-2026.png){:class="img-responsive"}
+
+<h3>Past events</h3>
 
 [Jazz 825](https://jazz825.co.uk/) at the **Park Inn** in Southend, Essex on **Wednesday June 24th 2026, 8.30pm start**. Free entry (donations welcome). *Park Inn Hotel, Church Road, Southend-on-sea, SS1 2A*.
 
-<h3>Past events</h3>
 
 
 [Patch](https://www.patchcolchester.co.uk/events) in Colchester, Essex on **Friday March 27th 2026. Doors open 7pm.**  *24 Trinity Street, Colchester, CO1 1JN.*
