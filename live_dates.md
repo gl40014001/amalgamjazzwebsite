@@ -7,10 +7,7 @@ title: LIVE DATES
 ---
 
 <h2>LIVE DATES</h2>
-**[Patch](https://good-show.co.uk/events/4407)** in Colchester, Essex on **Friday 6th November 2026.** Doors open 7pm. **Tickets £10** - available **[here](https://good-show.co.uk/events/4407)**.  
-*24 Trinity Street, Colchester, CO1 1JN.*   
-
-![patchnov2026](assets/images/banners/amalgam-patch-nov-2026.png){:class="img-responsive"}
+**[The Jazz Centre](https://www.thejazzcentreuk.co.uk/events/jazz-825-amalgam)** in Southend, Essex on **Thursday December 17th 2026, 1pm Start**.  Free entry (donations welcome).  *The Jazz Centre,Beecroft Art Gallery (the old Southend library), Victoria Ave, Southend-on-Sea, SS2 6EX*
 
 <h3>Past events</h3>
 
