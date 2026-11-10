@@ -10,10 +10,9 @@ title: HOME
 
 
 Our next live date is:  
-**[Patch](https://good-show.co.uk/events/4407)** in Colchester, Essex on **Friday 6th November 2026.** Doors open 7pm. **Tickets £10** - available **[here](https://good-show.co.uk/events/4407)**.  
-*24 Trinity Street, Colchester, CO1 1JN.*  
+**[The Jazz Centre](https://www.thejazzcentreuk.co.uk/events/jazz-825-amalgam)** in Southend, Essex on **Thursday December 17th 2026, 1pm Start**.  Free entry (donations welcome).  *The Jazz Centre,Beecroft Art Gallery (the old Southend library), Victoria Ave, Southend-on-Sea, SS2 6EX*
 
-![albumcover](assets/images/banners/amalgam-patch-nov-2026.png){:class="img-responsive"}
+![amalgamcdfrontcover](assets/images/banners/amalgam_front.png){:class="img-responsive"}
 
 
 Formed during the Covid pandemic, Amalgam managed to play together virtually from their homes using music software similar to Zoom. 
